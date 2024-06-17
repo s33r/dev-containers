@@ -4,5 +4,8 @@
     "files.trimTrailingWhitespace": true,
     "gitlens.showWhatsNewAfterUpgrades": false,
     "gitlens.showWelcomeOnInstall": false,
-    "gitlens.plusFeatures.enabled": true
+    "gitlens.plusFeatures.enabled": true,
+    "cSpell.words": [
+        "devcontainers"
+    ]
 }
