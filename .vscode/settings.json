@@ -1,0 +1,8 @@
+{
+    "editor.trimAutoWhitespace": true,
+    "diffEditor.ignoreTrimWhitespace": true,
+    "files.trimTrailingWhitespace": true,
+    "gitlens.showWhatsNewAfterUpgrades": false,
+    "gitlens.showWelcomeOnInstall": false,
+    "gitlens.plusFeatures.enabled": true
+}
