@@ -25,7 +25,11 @@
 				"ms-azuretools.vscode-docker",
 				"vue.volar",
 				"eamodio.gitlens",
-				"ms-dotnettools.csdev"
+				"ms-dotnettools.csdev",
+				"bierner.github-markdown-preview",
+				"redhat.vscode-yaml",
+				"ms-vscode.vscode-node-azure-pack",
+				"ms-azure-devops.azure-pipelines"
 			]
 		}
 	},
